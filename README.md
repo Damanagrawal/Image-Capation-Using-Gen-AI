@@ -1,6 +1,5 @@
 # Image Caption Generation using Deep Learning
 
-[![GitHub license](https://img.shields.io/github/license/Sajid030/image-caption-generator)](https://github.com/Sajid030/image-caption-generator/blob/master/LICENSE.md)
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
@@ -10,7 +9,6 @@
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Overview](#overview)
 - [About the Dataset](#about-the-dataset)
 - [Installation](#installation)
@@ -23,11 +21,7 @@
 
 - Link: https://imgcaptiongen.streamlit.app/
 
-`Note:` If the website link provided above is not working, it might mean that the deployment has been stopped or there are technical issues. We apologize for any inconvenience.
-
-- Please consider giving a ⭐ to the repository if you find this app useful.
-- A quick preview of the **Image Caption Generator** app:
-
+`Note:` If the website link provided above is not working, it might mean that the deployment has been stopped or there are technical issues.
 ![Caption Generator Demo](resource/demo.gif)
 
 ## Overview
@@ -46,9 +40,9 @@ The key components of the project include:
 
 ## About the Dataset
 
-The [Flickr8k dataset](https://www.kaggle.com/adityajn105/flickr8k) is used for training and evaluating the image captioning system. It consists of 8,091 images, each with five captions describing the content of the image. The dataset provides a diverse set of images with multiple captions per image, making it suitable for training caption generation models.
+The [Flickr8k dataset] is used for training and evaluating the image captioning system. It consists of 8,091 images, each with five captions describing the content of the image. The dataset provides a diverse set of images with multiple captions per image, making it suitable for training caption generation models.
 
-Download the dataset from [Kaggle](https://www.kaggle.com/adityajn105/flickr8k) and organize the files as follows:
+
 
 - flickr8k
   - Images
@@ -99,7 +93,7 @@ enableCORS = false
 
 ## Bug / Feature Request
 
-If you encounter any bugs or issues with the loan status predictor app, please let me know by opening an issue on my [GitHub repository](https://github.com/Sajid030/image-captioning/issues). Be sure to include the details of your query and the expected results. Your feedback is valuable in helping me improve the app for all users. Thank you for your support!
+If you encounter any bugs or issues with the loan status predictor app, please let me know by opening an issue on my. Be sure to include the details of your query and the expected results. Your feedback is valuable in helping me improve the app for all users. Thank you for your support!
 
 ## Future Scope
 
